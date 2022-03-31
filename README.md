@@ -1,4 +1,3 @@
-<p align="center"><a href="https://github.com/mdriyajulkabir"><img width="80%" src="https://i.postimg.cc/hG770PQ6/IMG-4114.jpg" /></a></p>
 
 <p align="center"><a href="https://github.com/mdriyajulkabir"><img width="80%" src="https://i.ibb.co/zJKqnDg/IMG-4137.jpg" /></a></p>
 
