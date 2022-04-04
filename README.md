@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Protfolio](https://stunning-stroopwafel-b3b924.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://riyajulkabir.netlify.app/](https://stunning-stroopwafel-b3b924.netlify.app/)
+- 👨‍💻 All of my projects are available at [Personal portfolio](https://stunning-stroopwafel-b3b924.netlify.app/)
 
 - 💬 Ask me about **react, html,css, javascript, Bootstrap, Tailwind, Firebase**
 
